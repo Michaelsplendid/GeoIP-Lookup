@@ -103,4 +103,4 @@ This project is licensed under the MIT License. See the LICENSE
 ## Footer / Credits
 
 Powered by IPstack — providing accurate global IP geolocation data.
-Designed by PhileTech.
+Developed by PhileTech.
